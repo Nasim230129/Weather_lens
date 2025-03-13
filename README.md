@@ -8,7 +8,7 @@ It is a Weather App for cities which makes use of Powerful Flutter Platform to r
 
 
 The app shows the information like current temperature, humidity, pressure, wind speed, feels like info generally. It also shows you the rate of change in temperature for the last 10 days of city. This changes of temperature are shown in beautifully presented Chart representation.</h4></p>
-
+#Nasimul Islam
 
 ***
 
