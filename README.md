@@ -11,7 +11,7 @@ The app shows the information like current temperature, humidity, pressure, wind
 #Nasimul Islam
 
 ***
-
+# Nasimul Islam
 <p align = center >
   <img src = "https://github.com/heyprincesingh/Weather_lens/blob/master/gitassets/1.jpg" height = "400">
   <img src = "https://github.com/heyprincesingh/Weather_lens/blob/master/gitassets/2.jpg" height = "400">
